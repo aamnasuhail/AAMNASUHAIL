@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Aamna Suhail</h1>
-<h3 align="center">A Frontend Developer who loves to design & </h3>
-<h3 align="center"> create beautiful web experiences. </h3>
+<h3 align="center">A Frontend Developer who loves to design & create beautiful web experiences.</h3>
 
 - 🌱 I’m currently learning **Node.JS**
 
