@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/codingmysoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingmysoul" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tooba-jamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tooba-jamal" height="30" width="40" /></a>
-<a href="https://instagram.com/codingmysoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingmysoul" height="30" width="40" /></a>
+<a href="[https://twitter.com/codingmysoul](https://twitter.com/Aamna__Suhail01?t=PBXkY4Or0jspFB7mxQet2Q&s=09)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aamnasuhail" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/tooba-jamal](https://www.linkedin.com/in/aamna-suhail-096bb123b)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aamnasuhail" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/codingmysoul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingmysoul" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
