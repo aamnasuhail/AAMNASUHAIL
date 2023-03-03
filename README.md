@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 
 
-<p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=aamnasuhail" height="150" alt="stats graph"  />/p>
-  
+<p> &nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=aamnasuhail" height="150" alt="stats graph"  /> </p>
+   
  <p><a  align="center"  href="http://www.github.com/aamnasuhail"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aamnasuhail&stroke=ffffff&background=282A36&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
   
 <p> <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=aamnasuhail" height="150" alt="languages graph"  /></p>
